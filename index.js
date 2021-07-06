@@ -1,3 +1,1 @@
-var number = 2.2155;
-
-console.log(number.toFixed(2));
+console.log(typeof(Number("22.5")));
