@@ -1,1 +1,1 @@
-console.log(typeof(Number("22.5")));
+console.log(Number(false));
